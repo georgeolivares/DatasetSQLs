@@ -1,0 +1,151 @@
+id,product_name,product_category,related_company,created_date
+1,"Acetaminophen, Doxylamine succinate , Phenylephrine HCl",indomethacin,1,1/10/2022
+2,Erythromycin Stearate,Nateglinide,1,9/20/2022
+3,"Eucalyptol, menthol, methyl salicylate, thymol",PredniSONE Intensol,1,4/3/2022
+4,Isosorbide Mononitrate,Chlorhexidine Gluconate,1,7/30/2023
+5,Aluminum Chlorohydrate,Zinc Oxide and Calamine,1,5/11/2022
+6,Baclofen,Ibuprofen,1,8/10/2023
+7,Hydroxyzine Pamoate,Octinoxate,1,6/23/2022
+8,"Ibuprofen, Pseudoephedrine Hydrochloride","Acetaminophen, Caffeine, Pyrilamine maleate",1,4/23/2022
+9,Sincalide,"Avobenzone, Octinoxate, and Octisalate",1,3/3/2023
+10,HYALURONIC ACID,Magesium Citrate,1,1/17/2022
+11,APIS MELLIFERA,valsartan,1,5/14/2023
+12,TITANIUM DIOXIDE,Potassium Chloride,1,10/31/2022
+13,Cozaar,Triamterene and Hydrochlorothiazide,1,8/9/2023
+14,Alendronate Sodium,"avobenzone, homosalate, octisalate, octocrylene",1,2/10/2022
+15,tramadol hydrochloride,Olanzapine,1,9/21/2022
+16,Omeprazole,ALUMINUM CHLOROHYDRATE,1,9/3/2022
+17,Atenolol,Potassium Nirtate and Sodium Fluoride,1,1/25/2023
+18,Baclofen,German Cockroach,1,4/5/2023
+19,Titanium dioxide,Aluminum Acetate,1,11/15/2022
+20,Metformin Hydrochloride,fluticasone propionate,1,1/8/2023
+21,"Oxytocin, Chimaphila Umbellata, Pituitary, Uva Ursi, Orchitinum, Prostate, Sarsaparilla",Octinoxate and Oxybenzone,1,1/11/2022
+22,"DOLICHOS PRURIENS, LYCOPODIUM CLAVATUM, LEPTANDRA VIRGINICA, CARDUUS MARIANUS, CHELIDONIUM MAJUS, BOLDO",NOT APPLICABLE,1,12/23/2022
+23,TOPIRAMATE,Fibrinogen human Thrombin human,1,11/19/2022
+24,Temozolomide,"Echinacea, Hydrastis canadensis, Lomatium, Aconitum napellus, Arsenicum album, Belladonna, Eupatorium perfoliatum, Gelsemium sempervirens, Lachesis mutus, Rhus toxicodendron, Pyrogenium,",1,10/27/2022
+25,Dimethicone,Titanium Dioxide,1,5/1/2023
+26,ECHINACEA ANGUSTIFOLIA,lisinopril,1,2/18/2022
+27,CEFTAZIDIME,TETRAHYDROZOLINE HYDROCHLORIDE AND ZINC SULFATE,1,11/30/2022
+28,sumatriptan succinate,ketorolac tromethamine,1,1/16/2022
+29,"Gentian,",Populus fremontii,1,1/26/2022
+30,lisinopril,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,1,11/12/2022
+31,Salicylic Acid,fentanyl,1,10/19/2021
+32,Dextromethorphan,"ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE, DEXTROMETHORPHAN HYDROBROMIDE, PHENYLEPHRINE HYDROCHLORIDE",1,10/12/2022
+33,Acetaminophen,mesalamine,1,10/4/2022
+34,Loratadine,solenopsis invicta,1,4/17/2023
+35,Divalproex Sodium,Naproxen,1,4/21/2022
+36,CHLOROXYLENOL,Timolol Maleate,1,6/17/2022
+37,"HOMOSALATE, OXYBENZONE, OCTISALATE, AVOBENZONE, OCTOCRYLENE",Guinea Pig Epithelia,1,6/27/2023
+38,benzonatate,Phenylephrine Hydrochloride and Guaifenesin,1,12/7/2021
+39,TOLNAFTATE,Labetalol Hydrochloride,1,11/15/2022
+40,follitropin alfa,DIMETHICONE,1,4/19/2023
+41,Rhodotorula mucilaginosa,Diltiazem Hydrochloride,1,4/3/2022
+42,"brompheniramine maleate, phenylephrine HCl",Atropine Sulfate,1,5/13/2022
+43,Salicylic Acid,calcium carbonate,1,2/12/2022
+44,"Allium sativum, Aluminium metallicum, Arg. met., Aur. met., Baryta carb., Beryllium metallicum, Bismuthum metallicum, Cadmium metallicum, Calc. fluor., Carbo veg., Chelidonium majus, Cinchona, Cobaltum met., Cuprum met., Glycyrrhiza glabra, Hydrofluoricum acidum, Iris versicolor, Manganum metallicum, Merc. viv., Niccolum metallicum, Osmium metallicum, Platinum met., Plumb. met., Stannum met., Strontium carb., Thallium metallicum, Titanium metallicum, Carduus mar., Taraxacum",PROPOFOL,1,1/27/2022
+45,Miconazole nitrate,ramipril,1,2/25/2022
+46,Divalproex Sodium,Penicillium camembertii,1,2/14/2022
+47,Candida albicans,Dimenhydrinate,1,7/28/2023
+48,"Acetaminophen, Aspirin and caffeine",Triclosan,1,3/26/2022
+49,FLUOROURACIL,Rosuvastatin calcium,1,1/8/2023
+50,OXYBENZONE,Desoximetasone,1,2/12/2023
+51,Oxygen,Acetaminophen and Diphenhydramine HCl,1,1/7/2023
+52,Acetaminophen,Loperamide HCl,1,5/19/2023
+53,amoxicillin,Cultivated Rye,1,2/26/2023
+54,Alprazolam,Desipramine Hydrochloride,1,6/26/2022
+55,Black Oak,Radish,1,11/16/2022
+56,ATORVASTATIN CALCIUM,Salicylic Acid,1,2/26/2023
+57,Yellow Dock,Salicylic Acid,1,2/6/2022
+58,Colestipol Hydrochloride,desogestrel and ethinyl estradiol,1,5/31/2023
+59,OCTINOXATE and TITANIUM DIOXIDE,lorazepam,1,10/22/2022
+60,Flu-Cold,"Quercetin,",1,2/27/2022
+61,Pregabalin,"Capsaicin, Camphor",1,9/12/2022
+62,"octisalate, homosalate, oxybenzone, avobenzone, octocrylene",Olivenite 6 Special Order,1,9/7/2023
+63,HYDROCORTISONE,antihemophilic factor/von willebrand factor complex (human),1,3/16/2022
+64,temazepam,Ioversol,1,3/31/2022
+65,Salicylic Acid,simvastatin,1,6/21/2023
+66,chlorhexidine gluconate and isopropyl alcohol,Fluconazole,1,4/17/2023
+67,"Calc fluor, Calc phos, Hali phos",Losartan Potassium and Hydrochlorothiazide,1,5/11/2022
+68,Lovastatin,ORIGANUM MAJORANA,1,12/22/2021
+69,CEFPROZIL,ALCOHOL,1,6/7/2023
+70,Losartan Potatssium,sildenafil,1,3/1/2022
+71,"BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYXIN B SULFATE, LIDOCAINE","Guaifenesin, Dextromethorphan",1,2/16/2023
+72,Furosemide,loratadine,1,12/24/2021
+73,pregabalin,Oatmeal,1,8/19/2023
+74,Omeprazole,Lovastatin,1,7/19/2022
+75,PRAMIPEXOLE DIHYDROCHLORIDE,"Acetaminophen, Aspirin, Caffeine",1,7/10/2023
+76,Flavoxate Hydrochloride,ZALEPLON,1,4/17/2022
+77,"Calcium Chloride, Magnesium Chloride, Dextrose monohydrate, Lactic Acid, Sodium Chloride, Sodium Bicarbonate, and Potassium Chloride",Glycerin,1,4/20/2022
+78,ropinirole,Duloxetin hydrochloride,1,5/26/2023
+79,gadoterate meglumine,Terconazole,1,2/8/2023
+80,"Ethanol, 60% by volume",CEFOTAXIME,1,3/9/2022
+81,Ibuprofen,Cladribine,1,11/28/2021
+82,Adenosine,Phenytoin Sodium,1,12/20/2022
+83,Aluminum zirconium tetrachlorohydrex gly,"Menthol, zinc oxide",1,8/2/2023
+84,"Octinoxate, Octisalate, Oxybenzone",Isopropyl Alcohol,1,3/27/2023
+85,Salicylic Acid,Alcohol,1,12/28/2021
+86,"Acetaminophen, Caffeine, Pyrilamine maleate",ACETAMINOPHEN,1,11/10/2021
+87,Smooth Brome,Metformin Hydrochloride,1,10/30/2021
+88,Bethanechol Chloride,Ibuprofen,1,7/22/2023
+89,Repaglinide,"Acetaminophen, Chlorpheniramine maleate, Dextromethorphan HBr, Phenylephrine HCl",1,7/27/2022
+90,Titanium Dioxide,SODIUM MONOFLUOROPHOSPHATE,1,2/9/2022
+91,Trihexyphenidyl Hydrochloride,"VITAMIN A, ASCORBIC ACID, VITAMIN D, .ALPHA.-TOCOPHEROL, THIAMINE HYDROCHLORIDE, RIBOFLAVIN, NIACIN, PYRIDOXINE HYDROCHLORIDE, CYANOCOBALAMIN, FOLIC ACID, BIOTIN, and CALCIUM PANTOTHENATE",1,7/18/2022
+92,Lamotrigine,Hydrocortisone,1,7/29/2022
+93,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl",Famotidine,1,5/19/2022
+94,"acetaminophen, dextromethorphan hydrobromide and doxylamine succinate",DIVALPROEX SODIUM,1,6/11/2023
+95,Morphine Sulfate,Octinoxate,1,10/22/2022
+96,fluoxetine,Atenolol,1,1/21/2023
+97,"Influenzinum, Aconitum nap., Aralia quinquefolia, Arsenicum alb., Bryonia, Euphrasia, Gaultheria procumbens, Gelsemium, Histaminum hydrochloricum, Hydrastis, Kali bic., Lycopodium, Nux vom., Phosphorus, Pulsatilla, Rhus toxicodendron, Salvia, Sticta, Thuja occ., Verbascum, Echinacea",methscopolamine bromide,1,7/10/2023
+98,Acetaminophen,"Aluminum hydroxide, Magnesium hydroxide, Simethicone",1,3/17/2022
+99,Zinc Oxide,Lamotrigine,1,11/28/2022
+100,Acetaminophen,GABAPENTIN,1,10/31/2022
+101,"Baptisia Tinctoria, Echinacea, Hydrastis Canadensis, Lym D Nosode, Arsenicum Album, Bryonia, Chelidonium Majus",Methylcellulose,1,7/28/2022
+102,Lidocaine,Aluminum Sesquichlorohydrate,1,11/27/2022
+103,"PHOSPHORUS,ARSENIC TRIOXIDE,LACHESIS MUTA VENOM,PHYTOLACCA AMERICANA ROOT,BAPTISIA TINCTORIA,ECHINACEA,,",CHLORHEXIDINE GLUCONATE,1,3/31/2022
+104,Benzocaine,Gl. Supra Gl. Thyr Hypophysis 6 Special Order,1,1/2/2023
+105,Titanium Dioxide,Clopidogrel bisulfate,1,10/28/2021
+106,azithromycin,BENZALKONIUM CHLORIDE,1,6/8/2023
+107,Fluorouracil,Sodium Monofluorophosphate,1,4/29/2022
+108,ketorolac tromethamine,"Dextromethorphan Hydrobromide, GUAIFENESIN",1,1/9/2023
+109,Triclosan,CALCAREA PHOSPHORICA,1,1/27/2022
+110,Nicotine Polacrilex,Metformin Hydrochloride,1,4/16/2023
+111,Titanium dioxide,venlafaxine hydrochloride,1,4/1/2023
+112,Sennosides,Salicylic Acid,1,6/20/2022
+113,octinoxate and oxybenzone,Esomeprazole magnesium,1,4/14/2022
+114,Benzoyl Peroxide,Thiamine Hydrochloride,1,7/26/2022
+115,Dicyclomine Hydrochloride,NITROGEN,1,7/22/2022
+116,"Adonis vernalis, Strophanthus hispidus, ATP (Adenosine Triphosphate), Cactus grandiflorus, Convallaria majalis, Cor (suis), Kali gluconicum, Magnesium glusonicum,",cetylpyridinium chloride,1,7/17/2022
+117,tedizolid phosphate,doxycycline,1,3/11/2022
+118,Filbert,Maple Pollen Mixture,1,3/5/2022
+119,Dextrose monohydrate,lisdexamfetamine dimesylate,1,2/9/2023
+120,Anticoagulant Citrate Phosphate Dextrose Adenine,DOCUSATE CALCIUM,1,11/14/2022
+121,Titanium Dioxide and Zinc Oxide,TRICON,1,5/22/2023
+122,"BENZALKONIUM CHLORIDE, BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYXIN B SULFATE, WATER, ISOPROPYL ALCOHOL, BENZOCAINE, ALCOHOL, ASPIRIN",Triazolam,1,8/29/2023
+123,"Phenobarbital, Hyoscyamine Sulfate, Atropine Sulfate, Scopolamine Hydrobromide",Omeprazole,1,3/14/2022
+124,Fire Ant,MIDAZOLAM HYDROCHLORIDE,1,3/10/2022
+125,Misoprostol,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,1,1/9/2023
+126,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,Salicylic Acid,1,4/25/2022
+127,"Carbo Animalis, Activated Charcoal, Potassium Dichromate, Sodium Chloride, Pulsatilla Vulgaris, Sepia Offcinalis Juice, Silicon Dioxide, Sulfur, Zinc",DIETHYLPROPION HYDROCHLORIDE ER,1,8/29/2023
+128,Tamsulosin Hydrochloride,Glycopyrrolate,1,3/20/2022
+129,"neomycin and polymyxin B sulfates, bacitracin zinc, and hydrocortisone",Tobacco Leaf,1,9/5/2022
+130,CHLORPROMAZINE HYDROCHLORIDE,"Acetaminophen, Dextromethorphan HBr, Phenylephrine HCl",1,11/14/2022
+131,Cefaclor,Turkey Meat,1,4/18/2023
+132,Alprazolam,"Glycerin, Hypromelloses, Polyethylene Glycol 400, Tetrahydrozoline Hydrochloride, and Zinc Sulfate",1,10/18/2021
+133,norethindrone acetate and ethinyl estradiol,Glycerin,1,6/6/2023
+134,Sucralfate,VAPOR RUB,1,4/5/2023
+135,Titanium Dioxide and Octinoxate,"Acetaminophen, Dextromethorphan HBr, Doxylamine Succinate",1,7/15/2022
+136,Lorazepam,Maple Sugar,1,11/29/2021
+137,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,Chloropheniramine Maleate and Dextromethorphan Hydrobromide and Acetaminophen,1,12/16/2021
+138,Hydrochlorothiazide,Levofloxacin,1,9/15/2022
+139,CIPROFLOXACIN,Alcohol,1,8/19/2022
+140,Ibuprofen and Famotidine,Clotrimazole and Betamethasone dipropionate,1,5/20/2023
+141,OXYGEN,CleanWell Natural Antibacterial Foaming Orange Vanilla,1,6/19/2022
+142,Carbamazepine,Glimepiride,1,2/10/2023
+143,"Menthol, zinc oxide",Bismuth subsalicylate,1,12/21/2021
+144,oxycodone hydrochloride,Metoprolol succinate,1,11/3/2021
+145,Levomefolate Calcium and Algal Powder,Doxazosin Mesylate,1,9/11/2022
+146,Naproxen sodium,Uramaxin GT and Keradan,1,9/12/2023
+147,Nitrogen,"DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN",1,5/3/2022
+148,Ranitidine,Oxybutynin Chloride,1,8/29/2023
+149,nitroglycerin,Warfarin Sodium,1,7/9/2022
+150,Aurum 30 Special Order,zinc gluconate,1,2/7/2022
